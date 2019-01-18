@@ -1,0 +1,1 @@
+Esta es una apliación de colores en el cual puedes escoger el color que mas te gusta y estamos verificando como funciona el git pull
